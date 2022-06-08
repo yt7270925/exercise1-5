@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 50px 0 0 15px;
+  background-color: grey;
+}
+
+.intro {
+  color: orange;
+}
+
+h2, p {
+  margin: 15px 0;
+}
